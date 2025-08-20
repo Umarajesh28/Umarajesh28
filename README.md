@@ -1,18 +1,19 @@
 # 👋 Hi, I'm Uma Rajesh  
 
-🎓 Data Science Enthusiast | 📊 Aspiring Data Scientist | 💻 Python | 🚀 AI/ML Practitioner  
+🚀 Data Science & Machine Learning Enthusiast | GUVI IIT-M Certified | Open to Opportunities
+ 
 
 ---
 
-### 🌟 About Me  
-- 🌱 Actively seeking opportunities in **Data Science** and **Machine Learning**  
-- 🚀 Goal: To apply AI & Data Science in **real-world impactful solutions**  
-- 💡 Passionate about solving problems with **Data-Driven Insights**  
-
+🎓 GUVI IIT-M Certified in Data Science  
+💡 Passionate about Machine Learning, AI, and Data-Driven Problem Solving  
+🌱 Currently exploring Deep Learning & NLP projects  
+🔍 Actively seeking Data Science & Machine Learning opportunities
 ---
 
 ### 🛠️ Tech Stack  
-- **Languages:** Python, SQL, R  
+- **Languages:** Python, SQL, R
+- **Machine Learning:** Regression, Classification, Clustering, NLP, Deep Learning
 - **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, NLTK, OpenCV  
 - **Data Visualization:** Matplotlib, Seaborn, Plotly, Power BI  
 - **Tools & Platforms:** Git, GitHub, Jupyter, Google Colab, Streamlit  
@@ -33,14 +34,13 @@
 ---
 
 ### 📊 GitHub Stats  
-![Uma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umarajesh28&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Umarajesh28&layout=compact&theme=tokyonight)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Umarajesh28&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umarajesh28&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/> </p>
 
 ---
 
 ### 📫 Connect With Me  
 - 💼[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uma-rajesh/)  
-- 📧 **umarajesh2809@gmail.com**  
+- 📧 ✉️ Reach me: **umarajesh2809@gmail.com**  
 - 📂 [GitHub Repositories](#)  
 
 

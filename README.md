@@ -33,8 +33,8 @@
 ---
 
 ### 📊 GitHub Stats  
-![Uma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UmaRajesh&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UmaRajesh&layout=compact&theme=radical)  
+![Uma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umarajesh28&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Umarajesh28&layout=compact&theme=radical)  
 
 ---
 

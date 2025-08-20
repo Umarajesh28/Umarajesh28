@@ -12,7 +12,7 @@
 ---
 
 ### 🛠️ Tech Stack  
-- **Languages:** Python, SQL, R
+- **Languages:** Python, SQL
 - **Machine Learning:** Regression, Classification, Clustering, NLP, Deep Learning
 - **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, NLTK, OpenCV  
 - **Data Visualization:** Matplotlib, Seaborn, Plotly, Power BI  

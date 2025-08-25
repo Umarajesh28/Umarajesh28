@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Uma Rajesh  
 
-🚀 Data Science & Machine Learning Enthusiast | GUVI IIT-M Certified | Open to Opportunities
+Data Science & Machine Learning Enthusiast | GUVI IIT-M Certified | Open to Opportunities
  
 
 ---
 
-🎓 GUVI IIT-M Certified in Data Science  
-💡 Passionate about Machine Learning, AI, and Data-Driven Problem Solving  
-🌱 Currently exploring Deep Learning & NLP projects  
-🔍 Actively seeking Data Science & Machine Learning opportunities
+GUVI IIT-M Certified in Data Science  
+Passionate about Machine Learning, AI, and Data-Driven Problem Solving  
+Currently exploring Deep Learning & NLP projects  
+Actively seeking Data Science & Machine Learning opportunities
 ---
 
-### 🛠️ Tech Stack  
+### Tech Stack  
 - **Languages:** Python, SQL
 - **Machine Learning:** Regression, Classification, Clustering, NLP, Deep Learning
 - **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, NLTK, OpenCV  
@@ -21,7 +21,7 @@
 
 ---
 
-### 📌 Featured Projects  
+### Featured Projects  
 🔹 [Red Bus Data Analysis](#) – Data cleaning, visualization, and insights into travel trends  
 🔹 [Cricsheet Match Analysis](#) – Cricket data analysis & visualization of ODI, Test, T20 matches  
 🔹 [Flight Price Recommendation](#) – ML-based flight price prediction system  
@@ -33,12 +33,12 @@
 
 ---
 
-### 📊 GitHub Stats  
+### GitHub Stats  
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Umarajesh28&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umarajesh28&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/> </p>
 
 ---
 
-### 📫 Connect With Me  
+### Connect With Me  
 - 💼[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uma-rajesh/)  
 - 📧 ✉️ Reach me: **umarajesh2809@gmail.com**  
 - 📂 [GitHub Repositories](#)  
